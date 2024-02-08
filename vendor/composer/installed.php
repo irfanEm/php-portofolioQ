@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'irfan-m/php-portofolio-q',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '75b482e81af559cdbacccce45a5f266332ec3472',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'irfan-m/php-portofolio-q' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '75b482e81af559cdbacccce45a5f266332ec3472',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
