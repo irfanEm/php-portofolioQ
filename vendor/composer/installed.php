@@ -3,7 +3,7 @@
         'name' => 'irfan-m/php-portofolio-q',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '75b482e81af559cdbacccce45a5f266332ec3472',
+        'reference' => 'e2e30f91bf23c9eba27235cb7ae1e4de062d21c3',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'irfan-m/php-portofolio-q' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '75b482e81af559cdbacccce45a5f266332ec3472',
+            'reference' => 'e2e30f91bf23c9eba27235cb7ae1e4de062d21c3',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
