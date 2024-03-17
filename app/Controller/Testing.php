@@ -19,4 +19,9 @@ class Testing
     {
         echo $kategori . " : " . $id;
     }
+
+    public function testLayout(): void
+    {
+        echo "test Layout doang.";
+    }
 }
