@@ -4,7 +4,6 @@ require_once __DIR__ . "/../vendor/autoload.php";
 use IRFANM\PHP\PORTOFOLIO\App\Router;
 use IRFANM\PHP\PORTOFOLIO\Controller\HomeController;
 use IRFANM\PHP\PORTOFOLIO\Controller\Testing;
-use IRFANM\PHP\PORTOFOLIO\Controller\HomeController;
 use IRFANM\PHP\PORTOFOLIO\Middleware\AuthMiddleware;
 
 
