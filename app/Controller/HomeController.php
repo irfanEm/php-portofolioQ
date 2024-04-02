@@ -9,6 +9,7 @@ class HomeController
     public function index(): void
     {
         $model = [
+<<<<<<< HEAD
             "title" => "Beranda",
             "content" => "Halaman Beranda."
         ];
@@ -76,4 +77,10 @@ class HomeController
         View::view("Home/contact", $model);
     }
 
+=======
+            "title" => "Beranda"
+        ];
+        View::view("Home/index", $model);
+    }
+>>>>>>> 459dceb73845416cad2faea9d8d89975f600475a
 }
