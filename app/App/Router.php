@@ -46,7 +46,7 @@ class Router
         }
 
         http_response_code(404);
-        echo "Not Found : 404";
+        View::redirect("/not-found");
     }
 
 }
